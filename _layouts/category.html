@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h1>Posts Categorized: {{ page.tag }}</h1>
+{% for post in site.categories[page.tag] %}
+<article class="post">	
+	<header class="article-header"><h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2></header>
+	<div class="post-meta-top">
+		<div class="date">
+			<span>				
+				 <p>Posted <time class="updated">{{ post.date | date: "%b %-d, %Y" }}</time> 
+				{% if post.categories %}
+				<span class="amp">&amp;</span> filed under <a href="/category/film-scores/" rel="category tag">{{ post.categories }}</a>.
+				{% endif %}
+				</p>
+			</span>
+		</div>
+	</div>
+	<p>{{ post.content }}</p>	
+</article>  
+{% endfor %}

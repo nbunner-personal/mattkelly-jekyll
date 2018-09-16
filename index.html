@@ -1,0 +1,47 @@
+---
+layout: default
+navPage: nav-home
+---
+{% for post in paginator.posts %}
+<article class="post">	
+	<header class="article-header"><h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2></header>
+	<div class="post-meta-top">
+		<div class="date">
+			<span>				
+				 <p>Posted <time class="updated">{{ post.date | date: "%b %-d, %Y" }}</time> 
+				{% if post.categories %}
+				<span class="amp">&amp;</span> filed under <a href="/category/film-scores/" rel="category tag">{{ post.categories }}</a>.
+				{% endif %}
+				</p>
+			</span>
+		</div>
+	</div>
+	<p>{{ post.content }}</p>	
+</article>  
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<ol class="bones_page_navi clearfix">
+  {% if paginator.previous_page %}
+    <li class="bpn-prev-link"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+  {% else %}
+    <li class="bpn-prev-link"><span aria-hidden="true">&laquo; Prev</span></li>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="bpn-current"><span>{{ page }}</span></li>
+    {% elsif page == 1 %}
+      <li><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    {% else %}
+      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <li class="bpn-next-link"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+  {% else %}
+    <li class="bpn-next-link"><span aria-hidden="true">Next &raquo;</span></li>
+  {% endif %}
+</ol>
+{% endif %}
