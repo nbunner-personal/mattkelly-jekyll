@@ -3,14 +3,14 @@ layout: default
 ---
 {% assign post = page %}
 <div id="main" class="eightcol first clearfix" role="main"></div>
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post" itemscope itemtype="//schema.org/BlogPosting">
 
   <header class="article-header">
     <h1 itemprop="name headline">{{ page.title }}</h1>   
     <p class="byline vcard">
       Posted <time class="updated" datetime="{{ page.date }}" pubdate="">{{ page.date }}</time> 
       {% if page.categories %}
-      <span class="amp">&amp;</span> filed under <a href="http://www.matthewjameskelly.co.uk/category/film-scores/" rel="category tag">{{ page.categories }}</a>.</p> 
+      <span class="amp">&amp;</span> filed under <a href="/category/film-scores/" rel="category tag">{{ page.categories }}</a>.</p> 
       {% endif %}
   </header>
 
