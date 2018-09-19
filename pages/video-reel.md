@@ -3,7 +3,7 @@ layout: page
 permalink: /video-reel/
 useVideoPlayer: true
 navPage: nav-video
-title: Matthew James Kelly - Video Reel
+title: Video Reel
 ---
 <div id="main" class="twelvecol first clearfix" role="main">        
     <h2>Film</h2>            

@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 navPage: nav-contact
-title: Matthew James Kelly - Contact
+title: Contact
 ---
 <div class="contact">
 <p>m a t t @ s p e c t r a l . o r g . u k</p>
