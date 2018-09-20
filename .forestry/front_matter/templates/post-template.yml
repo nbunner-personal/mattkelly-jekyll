@@ -9,6 +9,13 @@ fields:
   description: Title of post
   config:
     required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: YYYY/MM/DD
+    required: true
+  description: Date of the blog post
 - type: file
   name: featured_image
   label: Featured image
