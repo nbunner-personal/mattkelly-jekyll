@@ -13,11 +13,10 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: ''
+- type: file
+  label: Featured image
+  name: featured_image
+  description: This image will appear at the top of your blog post
 - name: layout
   label: Layout
   type: text
