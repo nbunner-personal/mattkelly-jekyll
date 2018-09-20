@@ -3,7 +3,7 @@ title: nigel doing some more testing
 category: Film Scores
 layout: post
 date: 2018-09-20 00:00:00 +0000
-featured_image: ''
+featured_image: "/v1537479771/sheep_by_teocava.jpg.jpg"
 content: Nulla facilisi. In vel sem. Morbi id urna in diam dignissim feugiat. Proin
   molestie tortor eu velit. Aliquam erat volutpat. Nullam ultrices, diam tempus vulputate
   egestas, eros pede varius leo, sed imperdiet lectus est ornare odio. Lorem ipsum
@@ -14,6 +14,6 @@ content: Nulla facilisi. In vel sem. Morbi id urna in diam dignissim feugiat. Pr
   ipsum pellentesque ligula, sit amet scelerisque urna nibh ut arcu. Aliquam in lacus.
   Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
   Curae; Nulla placerat aliquam wisi. Mauris viverra odio. Quisque fermentum pulvinar
-  odio. Proin posuere est vitae ligula. Etiam euismod. Cras a eros.
+  odio. Proin posuere est vitae ligula. Etiam euismod. Cras a eros.![](/v1537445213/samples/landscapes/beach-boat.jpg)
 
 ---
