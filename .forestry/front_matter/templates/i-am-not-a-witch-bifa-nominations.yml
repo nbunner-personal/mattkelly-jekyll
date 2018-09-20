@@ -1,18 +1,8 @@
 ---
 label: I AM NOT A WITCH BIFA nominations!
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
-- name: permalink
-  label: Permalink
-  type: text
-  hidden: false
-  default: ''
-- name: id
-  label: Id
-  type: text
-  hidden: false
-  default: ''
 - name: title
   label: Title
   type: text
@@ -31,15 +21,10 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: post
 - name: categories
   label: Categories
   type: tag_list
-  hidden: false
-  default: ''
-- name: guid
-  label: Guid
-  type: text
   hidden: false
   default: ''
