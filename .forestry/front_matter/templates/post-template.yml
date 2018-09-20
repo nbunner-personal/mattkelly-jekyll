@@ -1,0 +1,23 @@
+---
+label: Post template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Title of post
+  config:
+    required: true
+- type: file
+  name: featured_image
+  label: Featured image
+  description: Image to appear at top of blog post
+- type: textarea
+  name: content
+  label: Content
+  description: Content for blog post
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
