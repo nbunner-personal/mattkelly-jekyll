@@ -29,4 +29,5 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/Nigel-testing-the-posts-template.md
 - _posts/Testing-the-blog-post-entry-thing.md
