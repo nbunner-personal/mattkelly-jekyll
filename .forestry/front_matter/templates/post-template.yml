@@ -38,6 +38,12 @@ fields:
     - Film Scores
   label: Category
   description: Category of the post
+  default: Film Scores
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
 pages:
 - _posts/2018-09-20-Nigel-testing-the-posts-template.md
 - _posts/Testing-the-blog-post-entry-thing.md
