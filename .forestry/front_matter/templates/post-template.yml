@@ -45,6 +45,6 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/nigel-doing-some-more-testing.md
+- _posts/2018-09-20-nigel-doing-some-more-testing.md
 - _posts/2018-09-20-Nigel-testing-the-posts-template.md
 - _posts/Testing-the-blog-post-entry-thing.md
