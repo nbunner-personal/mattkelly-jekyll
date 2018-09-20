@@ -20,30 +20,16 @@ fields:
   name: featured_image
   label: Featured image
   description: Image to appear at top of blog post
-- type: textarea
-  name: content
-  label: Content
-  description: Content for blog post
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
-- type: select
-  name: category
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - Film Scores
-  label: Category
-  description: Category of the post
-  default: Film Scores
 - type: text
   name: layout
   label: layout
   hidden: true
   default: post
+- type: tag_list
+  name: categories
+  label: Categories
+  default:
+  - Film Scores
 pages:
 - _posts/2018-09-20-nigel-doing-some-more-testing.md
 - _posts/2018-09-20-Nigel-testing-the-posts-template.md
