@@ -20,13 +20,15 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: true
+  hidden: false
   default: post
+  description: Set to post for blog posts
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
-  default: ''
+  default:
+  - Film Scores
 pages:
 - _posts/2018-09-21-Nigel-testing-again.md
 - _posts/some-more-testing.md
