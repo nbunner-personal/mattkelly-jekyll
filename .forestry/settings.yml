@@ -23,6 +23,6 @@ sections:
   create: all
 upload_dir: ''
 public_path: https://res.cloudinary.com/dwr9rwmo1/image/upload
-front_matter_path: ''
+front_matter_path: "/image/upload"
 use_front_matter_path: true
 file_template: ":filename:"
