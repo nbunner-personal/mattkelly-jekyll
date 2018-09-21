@@ -2,7 +2,7 @@
 title: nigel testing again
 featured_image: "/v1537479771/sheep_by_teocava.jpg.jpg"
 content: ''
-date: ''
+date: 2018-09-20 23:00:00 +0000
 layout: ''
 categories: []
 
