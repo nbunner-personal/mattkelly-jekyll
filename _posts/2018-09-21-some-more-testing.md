@@ -2,7 +2,7 @@
 title: some more testing
 layout: post
 date: 2018-09-21 00:00:00 +0000
-featured_image: https://res.cloudinary.com/dwr9rwmo1/image/upload/v1537565525/richmond-park-misty.jpg
+featured_image: /v1537565525/richmond-park-misty.jpg
 categories:
 - Film Scores
 
