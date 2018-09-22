@@ -8,11 +8,13 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: Title of the post and of the URL after the date
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  description: Date of the post that forms part of the url as YYYY-MM-DD
 - type: file
   label: Featured image
   name: featured_image
@@ -26,8 +28,9 @@ fields:
 - name: categories
   label: Categories
   type: tag_list
-  hidden: false
+  hidden: true
   default:
   - Film Scores
 pages:
+- _posts/2018-09-16-Silent-Witness-Season-22.md
 - _posts/2018-09-22-Nigel-testing-agian-again.md
