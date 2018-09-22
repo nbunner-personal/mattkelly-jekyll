@@ -16,6 +16,6 @@ So so happy that Miss Todd won the top Gold honours in the Best Foreign Film cat
 
 &#8211; ever ever.
 
-Let alone a musical animation <img src="http://www.matthewjameskelly.co.uk/mjkwp/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Let alone a musical animation <img src="/img/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
 Such a lovely end to a fantastic week out in LA.
