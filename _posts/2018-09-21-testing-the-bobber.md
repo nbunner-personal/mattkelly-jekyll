@@ -10,5 +10,3 @@ featured_image: https://res.cloudinary.com/dwr9rwmo1/image/upload/v1537565525/ri
 Nigel testing the bobber
 
 and inserting an image here too...
-
-![](https://res.cloudinary.com/dwr9rwmo1/image/upload/v1537565525/richmond-park-misty.jpg)
