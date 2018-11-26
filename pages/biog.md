@@ -5,7 +5,7 @@ navPage: nav-biog
 title: Biog
 
 ---
-I have been playing music since the age of 5. I focussed my music to film studies at NFTS and was awarded a rare “Excellent” for my masters degree. I play a number of instruments (violin/viola/cello, flute, clarinet, guitars, dilruba, zither plus numerous oddities) and often incorporate improvisation and live experimental textures into my scores. I also have a keen love for electronic gadgets and manipulation should the story call for such styles. In 2018 I was nominated for a British Independent Film Award for the score to “I Am Not A Witch” directed by Rungano Nyoni (other nominees including Carter Burwell and Paul Weller!), the film went on to win a **BAFTA** for Outstanding Debut Feature film. Other notable awards are the **BAFTA** winning short animation “Sleeping with the Fishies” directed by Yousif Al-Khalifa and the student **OSCAR winning** musical animation “Miss Todd” directed by Kristina Yee. Musical collaborations and releases include the artists Coldcut, Vashti Bunyan, Lamb, Fink, Maribou State to name a few and working as assistant to Patrick Doyle.
+I have been playing music since the age of 5. I focussed my music to film studies at NFTS and was awarded a rare “Excellent” for my masters degree. I play a number of instruments (violin/viola/cello, flute, clarinet, guitars, dilruba, zither plus numerous oddities) and often incorporate improvisation and live experimental textures into my scores. I also have a keen love for electronic gadgets and manipulation should the story call for such styles. In 2018 I was nominated for a British Independent Film Award for the score to “I Am Not A Witch” directed by Rungano Nyoni (other nominees including Carter Burwell and Paul Weller!), the film went on to win a **BAFTA** for Outstanding Debut Feature film. Other notable awards are the **BAFTA** winning short animation “Sleeping with the Fishies” directed by Yousif Al-Khalifa and the student **OSCAR winning** musical animation “Miss Todd” directed by Kristina Yee. Musical collaborations and releases include the artists Coldcut, Vashti Bunyan, Lamb, Maribou State, Lucy Rose, Fink to name a few and working as assistant to Patrick Doyle.
 
 Recent works include:
 
@@ -33,9 +33,9 @@ Recent works include:
 
 **TV Series -**
 
-“Silent Witness” Series 21, additional music BBC1.
+“Silent Witness” Series 21 + 22  BBC1.
 
-“Can’t Cope, Won’t Cope” d. Cathy Brady, RTE Ireland 2016, currently composing for SERIES 2.
+“Can’t Cope, Won’t Cope” Series 1+ 2 RTE Ireland 2016/18.
 
 “Ripper Street” additional music BBC2.
 
